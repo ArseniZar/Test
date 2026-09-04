@@ -1,11 +1,11 @@
 <div align="center">
   <p>
-     <img src="./svg/Header.png"/>
-    <img src="./svg/Page1.png"/>
-    <img src="./svg/Page2.png"/>
-    <img src="./svg/Page3.png"/>
-    <img src="./svg/Page4.png"/>
-    <img src="./svg/Page5.png"/>
+     <img src="./png/Header.png"/>
+    <img src="./png/Page1.png"/>
+    <img src="./png/Page2.png"/>
+    <img src="./png/Page3.png"/>
+    <img src="./png/Page4.png"/>
+    <img src="./png/Page5.png"/>
   </p>
 </div>
 
